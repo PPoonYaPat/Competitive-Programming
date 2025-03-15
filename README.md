@@ -17,3 +17,4 @@ Currently, I am part of the **IOI Thailand Staff Team**, organizing the training
 - Around **10% of the problems** in this repository did not receive a full score. You can check my full submission history and score at **[oj.uz/PoonYaPat](https://oj.uz/profile/PoonYaPat)**.
 - The `IPST` folder contains problems from Thailans training camp, thus no English statements.
 - Other than `IPST`, you can find statements online as they are international competitions.
+- The filenames are named after the corresponding problem titles.
